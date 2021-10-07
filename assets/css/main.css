@@ -1044,6 +1044,20 @@ input, select, textarea {
 				width: 100%;
 			}
 
+.experience-list  { 
+	width: 500px;
+}
+
+.experience-list img { 
+	width: 2.5em;
+	height: 2.5em;
+	border-radius: 3px;
+	margin-right: 1em;
+	position:relative; 
+	top:20px;
+}
+
+
 /* List */
 
 	ol {
